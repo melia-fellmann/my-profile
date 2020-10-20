@@ -1,0 +1,28 @@
+.buttons, .media,.card_top, .lead, #subtitle {
+	text-align: center;
+}
+.card {
+  	display: flex;
+  	align-items: center;
+  	justify-content: space-between;
+	padding: 20px;
+	height: 350px;
+}
+.jumbotron{
+	background-color:#16718c;
+}
+.card h2 {
+	flex-grow: 1;
+	padding-left: 20px;
+}
+.buttons{
+	color:#ffffff;
+}
+#motto{
+	text-align: center;
+	font-size: 25px;	
+}
+#motto_h2{
+	text-align: center;
+	font-size: 28px;
+}
